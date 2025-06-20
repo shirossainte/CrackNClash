@@ -16,9 +16,13 @@
 
 # 🤖 Implementation of AI Algorithm (Backtracking)
 The AI opponent employs the backtracking search algorithm to simulate an expert lock picker. This algorithm was chosen for several reasons:
+
 **Efficiency:** Backtracking systematically explores all possible pin settings, pruning invalid paths early to avoid wasted attempts.
+
 **Competitiveness:** It allows the AI to quickly narrow down correct combinations, providing a challenging opponent for the player.
+
 **Flexibility:** The algorithm can adapt to different lock complexities and constraints dynamically.
+
 **Realism:** Mimics logical human reasoning in solving puzzles, enhancing immersion.
 
 # 🏁 How to run?
